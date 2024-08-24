@@ -144,4 +144,4 @@ Make sure that your `.env` file contains the correct Google API key:
 GOOGLE_API_KEY=your_api_key_here
 ```
 
-**Note: This is just a basic implementations feel free to contribute to make this project better any constructive feedback is appreciated. Thanks <3 ! **
+**Note: This is just a basic implementations feel free to contribute to make this project better any constructive feedback is appreciated. Thanks <3 !**
